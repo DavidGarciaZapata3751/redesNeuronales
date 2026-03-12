@@ -65,7 +65,7 @@ if 'accuracy' in st.session_state:
     col2.text("Reporte de Clasificación:")
     col2.code(st.session_state['report'])
 
----
+
 
 # 2. Selección de Imagen y Predicción
 st.subheader("🎯 Predicción Individual")
